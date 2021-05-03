@@ -7076,7 +7076,7 @@ type=weaksubj len=1 word1=strike pos1=verb stemmed1=y priorpolarity=negative
 type=strongsubj len=1 word1=striking pos1=adj stemmed1=n priorpolarity=positive
 type=strongsubj len=1 word1=strikingly pos1=anypos stemmed1=n priorpolarity=positive
 type=weaksubj len=1 word1=stringent pos1=adj stemmed1=n priorpolarity=negative
-type=weaksubj len=1 word1=stringently pos1=adverb stemmed1=n priorpolarity=negative mpqapolarity=strongneg
+type=weaksubj len=1 word1=stringently pos1=adverb stemmed1=n priorpolarity=negative
 type=strongsubj len=1 word1=striving pos1=adj stemmed1=n priorpolarity=positive
 type=strongsubj len=1 word1=striving pos1=noun stemmed1=n priorpolarity=positive
 type=weaksubj len=1 word1=strong pos1=adj stemmed1=n priorpolarity=positive
